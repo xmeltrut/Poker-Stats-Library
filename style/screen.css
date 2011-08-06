@@ -1,0 +1,23 @@
+body {
+	font-family: verdana, arial, sans-serif;
+}
+
+.cardTable td {
+	text-align: center;
+	cursor: pointer;
+}
+
+.cardTable th {
+	background: #EEEEEE;
+}
+
+.cardTable td#playFrom {
+	color: #FF0000;
+	font-size: 200%;
+	font-weight: bold;
+}
+
+.highlightCell {
+	background: #FFCC00;
+	font-weight: bold;
+}

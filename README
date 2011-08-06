@@ -1,0 +1,5 @@
+Poker Stats Library is a series of scripts, based in PHP, which do simple poker mats.
+
+Just move the directory to somewhere that is web accessible on either your local or remote server, and open index.php and it should work out of the box.
+
+http://www.chrisworfolk.com/pokerstatslibrary
